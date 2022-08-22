@@ -15,15 +15,7 @@
     "server": "nodemon src/index",
     "start": "node src/index"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Iqbal0786/crimeCheck-backend.git"
-  },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Iqbal0786/crimeCheck-backend/issues"
-  },
-  "homepage": "https://github.com/Iqbal0786/crimeCheck-backend#readme"
+  "license": "ISC"
 }
